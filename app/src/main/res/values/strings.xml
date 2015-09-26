@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ambientes Responsivos</string>
+
+    <string name="label">Wifi Signal</string>
+
+    <string name="textButton">Search Signal</string>
+
+    <string name="value"></string>
+
+    <string name="action_settings">Settings</string>
+</resources>
