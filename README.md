@@ -1,1 +1,1 @@
-#Ambientes Resposnsivos
+#Ambientes Responsivos
